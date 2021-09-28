@@ -11,3 +11,6 @@ if a buysignal triggered it would buy a further $20 worth once a month when that
 a buy signal based on MFI being low, and the MACD starting to being coming together.
 
 Attached in the files is the python code as well as a few excel sheets that show more of the output.
+
+As an extension on this I created a technical screener that would look through the securities I want to invest into and tell me if it is a technically good time to invest 
+in those securities. This will assist with better timing and active participation in timing the entries into the market.
